@@ -1,0 +1,14 @@
+{
+  "mode": "baseline",
+  "seed": 11,
+  "steps": 2500,
+  "batch": 128,
+  "lr": 0.001,
+  "seconds": 1.515,
+  "diffusion_steps": 16,
+  "split_seed": 23,
+  "trainable_parameters": 13972,
+  "device": "CPU",
+  "python": "3.13.9",
+  "numpy": "2.3.5"
+}

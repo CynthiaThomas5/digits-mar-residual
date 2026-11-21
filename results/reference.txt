@@ -1,0 +1,2 @@
+real_test_accuracy=0.99444444
+real_test_within_class_variance=0.17025377

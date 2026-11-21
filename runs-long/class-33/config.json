@@ -1,0 +1,14 @@
+{
+  "mode": "class",
+  "seed": 33,
+  "steps": 30000,
+  "batch": 128,
+  "lr": 0.001,
+  "seconds": 19.906,
+  "diffusion_steps": 16,
+  "split_seed": 23,
+  "trainable_parameters": 13972,
+  "device": "CPU",
+  "python": "3.13.9",
+  "numpy": "2.3.5"
+}
